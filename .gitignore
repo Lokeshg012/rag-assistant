@@ -26,9 +26,9 @@ wheels/
 .installed.cfg
 *.egg
 
-# Vector database files
-vector.index
-documents.pkl
+# Vector database files (commented out to include in repo)
+# vector.index
+# documents.pkl
 
 # IDE
 .vscode/
