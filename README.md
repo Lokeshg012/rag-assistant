@@ -68,7 +68,7 @@ User Query → FastAPI → LangGraph Agent → Response
 | Component | Technology | Purpose |
 |-----------|------------|---------|
 | **Web Framework** | FastAPI | REST API endpoints |
-| **LLM** | GROQ (Llama 3.3 70B) | Natural language understanding & generation |
+| **LLM** | GROQ - Llama 3.3 70B (Azure OpenAI was paid and I don't have one)  | Natural language understanding & generation |
 | **Embeddings** | SentenceTransformers (all-MiniLM-L6-v2) | Convert text to semantic vectors |
 | **Vector Database** | FAISS (Facebook AI Similarity Search) | Fast similarity search |
 | **Agent Framework** | LangGraph | Stateful agent orchestration |
