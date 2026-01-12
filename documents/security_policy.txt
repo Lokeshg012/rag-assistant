@@ -1,0 +1,10 @@
+Information Security Policy
+
+Employees must not share their login credentials with anyone.
+Passwords must be changed every 90 days and must include a mix of
+uppercase letters, lowercase letters, numbers, and special characters.
+
+Company data must not be stored on personal devices without encryption.
+Accessing company systems from public or unsecured networks is prohibited.
+
+Any suspected security breach must be reported immediately to the IT team.
